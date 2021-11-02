@@ -1,0 +1,10 @@
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\bin\Debug\netcoreapp3.1\GreatRepairModel.deps.json
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\bin\Debug\netcoreapp3.1\GreatRepairModel.dll
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\bin\Debug\netcoreapp3.1\GreatRepairModel.pdb
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\obj\Debug\netcoreapp3.1\GreatRepairModel.csproj.AssemblyReference.cache
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\obj\Debug\netcoreapp3.1\GreatRepairModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\obj\Debug\netcoreapp3.1\GreatRepairModel.AssemblyInfoInputs.cache
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\obj\Debug\netcoreapp3.1\GreatRepairModel.AssemblyInfo.cs
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\obj\Debug\netcoreapp3.1\GreatRepairModel.csproj.CoreCompileInputs.cache
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\obj\Debug\netcoreapp3.1\GreatRepairModel.dll
+C:\Source\GreatRepair\Server\GreatRepairApi\GreatRepairModel\obj\Debug\netcoreapp3.1\GreatRepairModel.pdb
